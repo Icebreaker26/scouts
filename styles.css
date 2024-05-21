@@ -1,0 +1,32 @@
+@media (min-width:768px){
+
+#fotos{
+    display: flex; 
+    width: 70%; 
+    margin: 0 auto;
+}
+
+#fotomain{
+
+    border-color: #68249c;
+     border-style: dotted; 
+     width: 70%; 
+     margin: 0 auto; 
+     display:flex;
+}
+
+}
+@media (max-width:768px){
+    #fotos{
+        margin: 0 auto;
+    }
+    
+    #fotomain{
+    
+        border-color: #68249c;
+         border-style: dotted; 
+         margin: 0 auto; 
+    }
+
+
+}
